@@ -8,13 +8,13 @@ Created by Mid-Space productions. Est. 1993
 ![](http://i.imgur.com/429uvwe.jpg)
 
 
-
+---
 ## This is a fork of the original version created by MidSpace. 
 The goal is to continue keeping SE ToolBox alive by updates.
 The initial release of this version will be dubbed "V2" to avoid any confusion with other forks of the original project.
 
 ### Installation
-
+---
 * [Download the latest version](https://github.com/xYounax/SEToolBox2/releases).
 * Details on [Installation/Runtime requirements](https://github.com/midspace/SEToolbox/wiki/System-Requirements).
 
