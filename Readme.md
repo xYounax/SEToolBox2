@@ -27,16 +27,15 @@ For more details on the game, please visit the following links.
 
 ### Installation
 
-* [Download the latest version](https://github.com/midspace/SEToolbox/releases/latest).
+* [Download the latest version](https://github.com/xYounax/SEToolBox2/releases).
 * Details on [Installation/Runtime requirements](https://github.com/midspace/SEToolbox/wiki/System-Requirements).
-* We invite you to ask questions at the official KeenSWH forum, on the [SEToolbox thread](http://forums.keenswh.com/threads/6638984/).
 
 Before asking any question please read the [documentation (FAQ)](https://github.com/midspace/SEToolbox/wiki) first as your question may have already been answered.
 
 
 ### Issues
-* Currently documented issues are [listed here](https://github.com/midspace/SEToolbox/wiki/Current-Issues).
-* Please submit any new issues here [here](https://github.com/midspace/SEToolbox/issues/new).
+* Currently documented issues are [listed here](https://github.com/xYounax/SEToolBox2/issues).
+* Please submit any new issues here [here](https://github.com/xYounax/SEToolBox2/issues/new).
 
 
 ### Contributing
@@ -49,17 +48,4 @@ This application contains code expressly licenced to it, and should not be used 
 
 The Space Engineers logo was sourced from spaceengineerswiki.com under creative commons.
 
--/-
-/
-SEToolbox was started in 2013 soon after Space Engineers was released for Early Access, and has been worked on in my free time.
-There is no requirement for any individual to donate.
-[![](https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5V7JL6CDGHCYL)
-
-
 ---
-
-### No longer maintained or updated
-
-I [midspace](https://github.com/midspace) have stopped working on Space Engineers related stuff.
-There is a lengthy post [here](https://forum.keenswh.com/threads/7402115/) on the Keen forums about this decision.
-I'm open to other developers taking over, or at least contributing further to SEToolbox.
