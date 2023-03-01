@@ -27,7 +27,7 @@ Before asking any question please read the [documentation (FAQ)](https://github.
 
 
 ### Contributing
-If you are interested in fixing issues and contributing directly to the code base, please see our document on [working with and developing SEToolbox](https://github.com/midspace/SEToolbox/wiki/Working-with-and-developing-SEToolbox).
+If you are interested in fixing issues and contributing directly to the code base, please see our document on [working with and developing SEToolbox](https://github.com/xYounax/SEToolBox2/wiki/Working-with-and-developing-SEToolbox).
 
 
 #### License
